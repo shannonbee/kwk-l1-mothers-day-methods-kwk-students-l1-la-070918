@@ -10,4 +10,8 @@ end
 
 mothers_day
 
-def mothers_day
+def mothers_day=(Mom)
+  puts "Happy Mother's Day, #{mom}"
+end
+
+mothers_day
