@@ -1,14 +1,14 @@
-def mothers_day
-  puts "Happy Mother's Day,Mom!"
-end
+# def mothers_day
+#   puts "Happy Mother's Day,Mom!"
+# end
 
-mothers_day
+# mothers_day
 
-def mothers_day (mom="Beyonce")
-puts"Happy Mother's Day, #{mom}"
-end
+# def mothers_day (mom="Beyonce")
+# puts"Happy Mother's Day, #{mom}"
+# end
 
-mothers_day
+# mothers_day
 
 def mothers_day=(Mom)
   puts "Happy Mother's Day, #{mom}"
